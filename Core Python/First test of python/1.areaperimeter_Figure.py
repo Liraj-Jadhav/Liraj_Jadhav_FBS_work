@@ -1,4 +1,4 @@
-# Area and Perimter of The give Figure
+# Area and Perimter of The given Figure
 l= float(input("Enter the length of rectangle: "))
 b= float(input("Enter the breadth of rectangle: "))
 r = float(input("Enter the radius of half circle: "))
